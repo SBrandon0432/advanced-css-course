@@ -1,12 +1,17 @@
 @import './abstracts/functions';
 @import './abstracts/mixins';
 @import './abstracts/varables';
+
 @import './base/base';
 @import './base/animations';
 @import './base/typogorphy';
 @import './base/utiltes';
+
 @import './componets/button';
 @import './componets/composition';
+@import './componets/feature-box';
+
 @import './pages/home';
+
 @import './layout/header';
 @import './layout/grid';
