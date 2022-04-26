@@ -1,0 +1,28 @@
+.bg-video {
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	z-index: -100;
+	opacity: 30%;
+	overflow: hidden;
+
+	&__content {
+		height: 100%;
+		width: 100%;
+		object-fit: cover;
+	}
+}
+
+/*
+
+  1. professionally - stack, work ethic, current project
+
+  2. ethics - i'm an amicable person, i am a team player while enjoying contributing meaningfully to the team. And i am generally a autonomous person in my work.
+
+  3. personals - hobbes, DnD, gym, learning new stacks like three.js
+
+
+
+*/
